@@ -1,0 +1,5 @@
+f1 code line 1
+f1 code line 2
+THE REBASE LINE
+THE REBASE LINE 2
+THE REBASE LINE 3
